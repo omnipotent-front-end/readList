@@ -5,6 +5,78 @@
 
 ## todo
 
+
+## 20221014
+
+- [你的图片加载，一点都不酷炫！不信You Look Look... - 掘金](https://juejin.cn/post/7122256732940107813) - 各种图片加载的优化方案，各种三方库的使用实践，炫到不行
+- [提升前端开发质量的十点经验沉淀](https://mp.weixin.qq.com/s/6i3oXMTf_-GDGLuSbB47gA) - 一些js编码的经验之谈，收获一个best-code：使用函数解决对象引用问题
+- [2022年国内外前端发展态势](https://mp.weixin.qq.com/s/ED5Kv4zURrjvI4MvyaQuPg) - 可以看看大家的选择
+- [浅谈低代码平台远程组件加载方案](https://mp.weixin.qq.com/s/sgQd8gJZKHdzX5GljKFUPg) - esm/amd/模块联邦都是比较好的解决方案
+
+## 20221012
+
+- [WeBankFinTech/fes.js: Fes.js 是一个基于 Vue 3 好用的前端应用解决方案。以约定、配置化、组件化的设计思想，让用户仅仅关心用组件搭建页面内容。技术曲线平缓，上手也简单。在经过多个项目中打磨后趋于稳定。丰富的 Vue 3 生态 和 Fes.js 插件，让业务开发更加简单快捷~](https://github.com/WeBankFinTech/fes.js) - 基于vue3的前端应用解决方案，非常值得借鉴，然后用来造轮子
+- [Vue 3 Migration Guide | Vue 3 Migration Guide](https://v3-migration.vuejs.org/) - vue3迁移指南，需要升级vue2项目到vue3的话，必须一看
+
+## 20221011
+
+- [深入浅出富文本编辑器](https://mp.weixin.qq.com/s/u84q5iMHdiebI8-cDCbrLQ) - 飞书团队前端，基于quill的编辑器分析和思考
+
+
+## 20221009
+
+- [前端智能化发展现状与未来展望](https://mp.weixin.qq.com/s/6PHxZb7x7aHTWe4HZHGLWg) - 看不懂
+- [为什么B站的弹幕可以不挡人物？元芳，你怎么看](https://mp.weixin.qq.com/s/A21Lb_Eq2n1EynDoKumLYw) - 这才是B站字幕不挡住人的根本原因啊
+- [kuitos/axios-extensions: 🍱 axios extensions lib, including throttle, cache, retry features etc...](https://github.com/kuitos/axios-extensions) - 几个axios的拓展，非常实用，有cache的，有节流的，有retry的
+- [first-contributions](https://github.com/firstcontributions/first-contributions) - 教你怎么开源贡献
+- [33-js-concepts](https://github.com/stephentian/33-js-concepts) - js教程，很不错，适合新人
+
+
+## 20221008
+
+- [Hooks时代，如何写出高质量的React和Vue组件？](https://mp.weixin.qq.com/s/IQ-g-tLYu1dOgHXCYXZoMA) - 业务中怎么写hooks，组件设计
+- [新手引导组件我为什么选 shepherd.js？ - 掘金](https://juejin.cn/post/7066477408303448100) - 用户指引的库，其他driver.js针对fixed元素的问题，可以通过不启用动画来解决
+- [JavaScript代码优化之道](https://mp.weixin.qq.com/s/_DwKlKPiEcgHlGY4Xk61vA) - 代码主要是为了写给人看的，而不是写给机器看的，只是顺便也能用机器执行而已。比较适合想提高编码能力的同学看看。
+- [微软最强开源工具，都卷起来！](https://mp.weixin.qq.com/s/9jlfhFtU-EdM29je-DK2pg) - windows终于迎来神器，赶紧下载一个试试
+- [【译文】JavaScript 命名约定那点事儿 - 知乎](https://zhuanlan.zhihu.com/p/271947419) - 一些最基本的命名规则，适合新人
+
+
+## 20220927
+
+- [vuejs/composition-api: Composition API plugin for Vue 2](https://github.com/vuejs/composition-api) - 想在vue2的项目中用vue3语法吗，用这个就对了。
+- [vueuse/vueuse: Collection of essential Vue Composition Utilities for Vue 2 and 3](https://github.com/vueuse/vueuse) - vue2 vue3都可以用的hooks库，感人
+- [最全最新的 Vue 官方生态整理](https://mp.weixin.qq.com/s/meHHy_jGpO7ytjAge85bzA) - 搞vue3，或者vue2里想体验vue3，必看
+- [全方位解读B端表格设计 | 设计达人](https://www.shejidaren.com/b-duan-biao-ge-sheji.html) - 一篇中后台交互很好的文章
+
+
+## 20220922
+
+- [关于 React Re-Render](https://mp.weixin.qq.com/s/BPFJSkvv_UPMux0dSZuh-A) - useMemo,useCallback,memo这几个api什么时候用，怎么用；react组件的re-render基本讲清楚了
+
+
+## 20220921 
+
+- [写好 JavaScript 异步代码的几个推荐做法](https://mp.weixin.qq.com/s/7c9_fvsxcZCElgUNoUtqCg) - 写好异步代码的几个点，可以参考下
+- [【第2723期】高级 Promise 模式：Promise缓存](https://mp.weixin.qq.com/s/WLvqOIZAjEnek2vb1CAFOw) - 接口缓存的场景吧
+- [前端开发必备的文件处理库！](https://mp.weixin.qq.com/s/3PsqmrjxtMb-qAJviXLuIg) - 前端文件处理相关的三方库汇总，基本汇总了office全家桶的读取、生成、在线等功能，非常建议阅读
+- [人人都在说的数据中台是什么？附9张架构图优质模板！](https://mp.weixin.qq.com/s/kRicUeY-4cn6zx8iNtZLOw) - 数据中台架构图分享，画架构图可以参考下
+- [产品经理常用UML图之「用例图」，附8张优质实例图！](https://mp.weixin.qq.com/s/_ZmXacP3MYRLK_GwBnLWYw) - UML用例图分享，画UML可以参考，主要用来诠释不同角色用户和系统模块之间的关系
+
+
+## 20220920
+
+- [Git Rebase: Don't be Afraid of the Force (Push) - Gerald Versluis](https://blog.verslu.is/git/git-rebase/) - 一个介绍git rebase的好文章
+- [modern-guide-to-packaging-js-library/README-zh_CN.md at main · frehner/modern-guide-to-packaging-js-library](https://github.com/frehner/modern-guide-to-packaging-js-library/blob/main/README-zh_CN.md) - 教你怎么打包前端库比较合适
+- [设计导航 - 精选最好的设计网站大全](http://hao.shejidaren.com/index.html) - 产品设计界的大全集，这个真的好东西，产品设计必备啊，里面很多网站非常好
+
+## 20220915 
+
+- [从0到1实现流程图应用01-开篇 · 语雀](https://www.yuque.com/antv/x6/ecngdf) - 前端实现流程引擎 流程平台的技术选型
+
+## 20220909
+
+- [治理项目模块依赖关系，试试这艘「依赖巡洋舰」 - 掘金](https://juejin.cn/post/7096650413209813029) - 一个用来查看项目依赖关系的好工具
+
 ## 20220907
 
 - [基于vue的海量数据tree组件(20w+) - 掘金](https://juejin.cn/post/6844904032050348045) - 一个海量树组件的解决方案，区别于element的tree是递归实现，该树相当于拉平了数据结构
@@ -12,6 +84,9 @@
 - [前端实现搜索并高亮文字的两种方式 - 掘金](https://juejin.cn/post/7066439118263156772) - 非编辑器文本高亮解决方案
 - [vue-codemirror基本用法：实现搜索功能、代码折叠功能、获取编辑器值及时验证 - 掘金](https://juejin.cn/post/6844904160056492040) - 通过vue-codemirror实现代码搜索高亮
 - [CodeMirror: Search/Replace Demo](https://codemirror.net/5/demo/search.html) - codemirror搜索高亮定位
+- [CodeMirror中文用户手册_用户手册_Tun6](https://www.tun6.com/projects/code_mirror/) - codemirror中文手册
+- [What is the best way to append / add text ? · Issue #555 · codemirror/codemirror5](https://github.com/codemirror/codemirror5/issues/555) - codemirror往后增加新内容的方式
+- [【React】利用modal、codemirror实现日志查看并且实时展示功能_Fliessenn的博客-CSDN博客_codemirror 日志](https://blog.csdn.net/all_might1/article/details/109763983) - 利用外层div解决codemirror滑动底部
 
 ## 20220906
 
@@ -32,8 +107,7 @@
 ## 20220901
 
 - [Vue 中的 .sync 修饰符 - 知乎](https://zhuanlan.zhihu.com/p/264840667) - 一篇关于vue的DSL语法的，有点收获，略带灵感
-- [基于 Webpack 项目接入 Vite 你可能需要注意的点](https://mp.weixin.qq.com/s/Ev13l0n1MDFpIoE-WT7WdQ) - 老项目改造用得到啊，好东西，实际采坑
-经验
+- [基于 Webpack 项目接入 Vite 你可能需要注意的点](https://mp.weixin.qq.com/s/Ev13l0n1MDFpIoE-WT7WdQ) - 老项目改造用得到啊，好东西，实际采坑经验
 - [简单好用的前端拖拽排序库](https://mp.weixin.qq.com/s/RKJAU5NbPW-F6Q3wlw01PA) - 几个拖拽的好库，功能比较强大，其中 https://sortablejs.github.io/Vue.Draggable/#/functional 这个相当给力
 - [Crx4Chrome](https://www.crx4chrome.com/) - 一个在国内下载chrome扩展的好地方，感恩
 - [有哪些世界知名的开源项目是由华人开发的？ - 知乎](https://www.zhihu.com/question/23919426/answer/2628506371) - 徐小夕的几个轮子，还不错可以参考下，特别是那个util
