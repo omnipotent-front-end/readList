@@ -5,6 +5,100 @@
 
 ## todo
 
+https://mp.weixin.qq.com/s/GaSo704nCAOba7d3XhwCzg
+https://mp.weixin.qq.com/s/i2HgJ3RvBR4UmOLCIvJ36w
+https://mp.weixin.qq.com/s/T_gtuRjrUUnyu1fzMKnqfg
+https://zhuanlan.zhihu.com/p/577509706?utm_campaign=&utm_medium=social&utm_oi=41809770184704&utm_psn=1569250313344925696&utm_source=
+https://mp.weixin.qq.com/s/xaySyAawAfo3Nx6Zmi3NOA
+https://mp.weixin.qq.com/s/VTWI6mfwYu_nEDcxNTDX_w
+https://mp.weixin.qq.com/s/AKwR_4O-bCbkSgtXEYyKHw
+https://mp.weixin.qq.com/s/oJOdS79fxVNnkweNFY5BJA
+https://mp.weixin.qq.com/s/1SlLWmZmQch0W3WSqlc4GA
+
+## 20221207
+
+- [前端性能优化心法](https://mp.weixin.qq.com/s/kmbT20Lx56hTPVmayYKFcw) - 几种常见的前端性能优化流程，总结为确立目标、lighthouse分析性能、拆分组件、剥离依赖（tree-shaking）、延迟加载（lazyload）、使用缓存（useMemo）
+
+## 20221206
+
+- [智能化与低码化在兴盛优选的应用与实践](https://mp.weixin.qq.com/s/EYkcQc4Nmc2XIovJt93oKQ) - 一篇讲低代码非常好的文章，原理架构还有业界的视野都讲的非常清楚
+- [2022年中国数据中台行业研究报告](https://report.iresearch.cn/report_pdf.aspx?id=4092) - 一个数据中台的2022年行业报告PPT，里面大量架构图，极具技术视野
+
+## 20221205
+
+- [还在用 JS 做节流吗？CSS 也可以防止按钮重复点击](https://mp.weixin.qq.com/s/nW7LfuAv67AkhCtQCe3z8Q) - css动画做节流，但是不太实用
+- [Why we ditched GraphQL for tRPC](https://echobind.com/post/why-we-ditched-graphql-for-trpc) - 一种graphQL的替代方案tRPC
+- [在 web 中做 PPT 是什么体验](https://mp.weixin.qq.com/s/ISa2w2D3mY3wokSJx4vRNw) - 几个web端展示PPT相关的库，经过调研，发现除了微软、金山自己的，其他都不是非常完美。大部分开源方法也都是转成pdf或者图片来访问ppt。
+
+## 20221202
+
+- [你只会用前端数据埋点 SDK 吗？](https://mp.weixin.qq.com/s/9Qwp6g8QKFK2ehDLyEu0Wg) - 前端埋点的设计方法，包括接口结构、性能、组件异常、接口异常监控方案等
+- [如何搭建一套 “无痕埋点” 体系？ - 知乎](https://zhuanlan.zhihu.com/p/313016178) - 一个非常好的文章，从前后端整体架构设计讨论了埋点的解决方案
+
+
+
+## 20221117
+
+- [Serverless 的前世今生](https://mp.weixin.qq.com/s?__biz=MzUzNzYxNjAzMg==&mid=2247545667&idx=1&sn=60ee9910704b52464d0fc83b2f78bbf2&chksm=fae6388ccd91b19a4da75cbcb15629398ca816e442b6e15564698284fbdcae5084d44ff9e0d1&scene=21#wechat_redirect) - 到底什么是Serverless？为什么 Serverless 要出现？它到底想解决的核心问题是什么？来自阿里云的文章，讲解的非常清晰
+- [企业如何利用 Serverless 快速扩展业务系统？](https://mp.weixin.qq.com/s/VDLfRNO3C657jlqWVcn-0g) - 各行各业如何最大化的利用Serverless，Serverless的使用场景是什么？
+
+
+## 20221115
+
+- [Node.js 安全最佳实践](https://mp.weixin.qq.com/s/2CBGgtja04NnOerpKfk0Ug) - nodejs官推的一些安全最佳实践
+- [refine](https://github.com/refinedev/refine) - 可以切换三方库、自带一些列解决方案hook、provier的react中后台应用解决方案
+
+
+
+## 20221114
+
+- [天花板级前端工程师才能玩转的工具？前端AI应用集合重磅开源](https://mp.weixin.qq.com/s/xt3FXgekBWTA13k7_4oB2w) - 百度AI飞桨FastDeploy的介绍和demo演示，搞人工智能AI的话可以看看。
+- [emotion维护者为什么放弃css-in-js？](https://mp.weixin.qq.com/s/EbHqKz6IFPJhgJ9poImXQg) - css-in-js的样式风格已经淘汰，切记不要再用
+
+## 20221109
+
+- [Ten Years of TypeScript](https://devblogs.microsoft.com/typescript/ten-years-of-typescript/) - typescript的这十年
+- [一文教你彻底搞定前后端所有鉴权方案，让你不再迷惘](https://mp.weixin.qq.com/s/BNJa3DjnM9ZELsfCnYxK5w) - 一篇鉴权的好文章，讲的很多很细，非常全面，值得收藏
+- [Day 17: the :picture-in-picture pseudo-class - Manuel Matuzović](https://www.matuzo.at/blog/2022/100daysof-day17/) - 两步实现画中画
+
+## 20221107
+
+- [精读《Headless 组件用法与原理》](https://mp.weixin.qq.com/s/-PSUUDk0JtYRYH7g0viTZg) - 对https://github.com/tailwindlabs/headlessui这个库的一个用法介绍。灵活性虽然提高了，但是开发流程却变长。个人感觉是如果只是为了ui框架而又去熟悉这一套心智负担是得不偿失的，还不如自己重新造得了。
+- [钟正楷-基于模块联邦 SDK 化的大型前端应用实践](https://mp.weixin.qq.com/s/cvbiMhw1Z2c9m-UrUfo5IQ) - 对 https://github.com/tnfe/hel 的一个介绍，一种基于SDK的模块联邦解决方案，思路比较好也比较通用，就是无大型工具社区背书，让人不敢用。
+- [vitejs/awesome-vite: ⚡️ A curated list of awesome things related to Vite.js](https://github.com/vitejs/awesome-vite#vue-cli) - vue-cli的项目（基于webpack的）怎么升级到Vite呢
+- [originjs/vite-plugin-federation: Module Federation for vite & rollup](https://github.com/originjs/vite-plugin-federation) - 一个基于vite和rollup的模块联邦解决方案
+
+## 20221104
+
+- [xiaocheng555/el-table-virtual-scroll: 基于Element-UI的Table 组件开发的虚拟滚动组件，支持动态高度，解决数据量大时滚动卡顿的问题。](https://github.com/xiaocheng555/el-table-virtual-scroll) - element-ui的虚拟表格解决方案，亲测非常好用，值得一试
+
+
+## 20221021
+
+- [vipshop/ams: AMS是基于 Vue.js 和 Element组件库、通过JSON配置来快速搭建管理后台的一整套前端解决方案](https://github.com/vipshop/ams) - vue的模块、api资源配置解决方案，类似网易飞哥那套config
+- [前端构建简易流水线 - 掘金](https://juejin.cn/post/6885296194650636296) - 一个流水线组件的例子，讲的很少很浅
+
+
+## 20221020
+
+- [D2C 设计稿转代码是怎么实现的？自己做一个可行吗？](https://mp.weixin.qq.com/s/KLwKQK27SjJLpDV5GSCU8g) - 介绍了下业界的几个视觉稿转前端代码的低代码平台，值得了解
+
+
+## 20221019
+
+- [CRUD模块封装 | Avue](https://avuejs.com/crud/api-crud-temp/) - 基于vue的curd模块解决方案的简单案例，可以参考
+- [jsplumb 中文教程 - Sam Xiao - 博客园](https://www.cnblogs.com/xcj26/p/9870734.html) - jsplumb的一些方法设置，可以参考，用来做拖拽、画线相关的不错
+- [Flow 流程 | Avue](https://avuejs.com/default/flow/) - 一个非常适合做流水线的vue组件，值得参考源码实现
+- [Avue](https://avuejs.com/) - vue2/vue3前端工程化的一系列参考
+- [在撸 Vue 的 ⌘+K 唤起菜单库时，我学到了很多……](https://mp.weixin.qq.com/s/5AnRvwmA-U76T52FR47w8Q) - 唤起菜单的组件，相关场景的时候可以看一看
+- [从零开始搭建一个属于自己的组件库！](https://mp.weixin.qq.com/s/w4SIPWNdsid70598-Gz5-g) - 参考element-plus的方案，基于vitepress和vue3如何搭建一个组件库
+- [Vue 可视化大屏适配插件之过程篇](https://mp.weixin.qq.com/s/dmGLGMfrRScp1bd8CBWhkQ) - 基于scale和zoom的大屏适配vue插件，没有用过，下一次可以尝试来快速改造一个页面为大屏
+- [iframe 仅显示页面的某部分 - it-hell.com](https://it-hell.com/question/111991) - 想让iframe只展示部分模块，可以通过控制iframe的margin 负值来完成
+
+## 20221018
+
+- [avue-data数据大屏](https://data.avuejs.com/) - 各种大屏样式，没有UI的话可以参考
+
 
 ## 20221014
 
@@ -71,7 +165,7 @@
 
 ## 20220915 
 
-- [从0到1实现流程图应用01-开篇 · 语雀](https://www.yuque.com/antv/x6/ecngdf) - 前端实现流程引擎 流程平台的技术选型
+- [从0到1实现流程图应用01-开篇 · 语雀](https://www.yuque.com/antv/x6/ecngdf) - 前端实现流程引擎、流水线、工作流、图表 流程平台的技术选型
 
 ## 20220909
 
