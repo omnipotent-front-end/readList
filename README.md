@@ -6,6 +6,33 @@
 ## todo
 
 
+[推荐20个开源的前端低代码项目](https://mp.weixin.qq.com/s/ie0d4QGx5SNh7HKV-kz9-Q)
+[vue3 table 性能优化，减少 85% 渲染耗时](https://mp.weixin.qq.com/s/EsVtSuLG6W5SzRiLkNJT7Q)
+
+## 20230309
+
+- [Stable Diffusion WebUI 1.4「gradio」报错解决方案 - 知乎](https://zhuanlan.zhihu.com/p/612099176) - 用来解决昨天文章里遇到的问题
+- [Best Stable Diffusion Prompts - PromptHero](https://prompthero.com/stable-diffusion-prompts) - stable-diffusion的比较好的prompts，非常给力
+
+## 20230308
+
+- [用Colab免费部署自己的AI绘画云平台—— Stable Diffusion](https://mp.weixin.qq.com/s/2H1gCoOVBK89dIhEqoTQmA) - 试试能不能走通？，发现无法走通流程，代码会报错啊。
+
+
+## 20230306
+
+- [十分钟内，用 Serverless 构建自己的“ChatGPT”](https://mp.weixin.qq.com/s/nH3MuVZEHI7YC-nup28GUA) - 拿着阿里云函数和本地测试了下openai的sdk，调不通，估计需要代理服务才行。
+
+
+## 20230301
+
+- [GitHub Copilot vs 国产开源之光 CodeGeeX](https://mp.weixin.qq.com/s/cW-33ORIDrP5llDP5ncIEQ) - 自动补全神器，在使用中，不知道可以提高多少效率
+- [component-party](https://github.com/matschik/component-party) - 一个在不同场景下，比较各种前端框架的代码风格，非常有意义，尤其针对vue3和vue2 ![img](https://img.shields.io/github/stars/matschik/component-party)
+
+## 20230228
+
+- [landscape](https://github.com/cncf/landscape) - 云原生的中间件大合集，非常全面 ![img](https://img.shields.io/github/stars/cncf/landscape)
+
 ## 20230227
 
 - [vue-flow](https://github.com/bcakmakoglu/vue-flow) - 流水线画板组件，只支持vue3 ![img](https://img.shields.io/github/stars/bcakmakoglu/vue-flow)
