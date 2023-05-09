@@ -7,7 +7,73 @@
 
 
 [推荐20个开源的前端低代码项目](https://mp.weixin.qq.com/s/ie0d4QGx5SNh7HKV-kz9-Q)
-[vue3 table 性能优化，减少 85% 渲染耗时](https://mp.weixin.qq.com/s/EsVtSuLG6W5SzRiLkNJT7Q)
+
+## 20230508
+
+
+- [Discord is Your Place for AI with Friends](https://discord.com/blog/ai-on-discord-your-place-for-ai-with-friends) - Discord上的几个AI工具，基本用不上现在
+- [为iframe正名，你可能并不需要微前端](https://mp.weixin.qq.com/s/0MI-be9sJmZQfJcjZkGpRg) - 一个基于iframe的微前端方案，主要是两边的通信封装和对url的统一参数处理
+- [vue3 table 性能优化，减少 85% 渲染耗时](https://mp.weixin.qq.com/s/EsVtSuLG6W5SzRiLkNJT7Q) - element-plus的table组件渲染是真的慢，希望有朝一日用得到
+
+## 20230505
+
+- [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers) - 吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版 ![img](https://img.shields.io/github/stars/datawhalechina/prompt-engineering-for-developers)
+
+
+## 20230504
+
+- [ClipDrop](https://clipdrop.co/) - Stable Diffusion推出的商业版图片编辑网站，很多免费功能
+- [bito](https://docs.bito.ai/) - 编码神器，将gpt4集成到vscode和chrome中
+- [Introduction · 系统架构设计师历年真题含答案与解析](https://ebook.qicoder.com/%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E5%B8%88/) - 软考的好资料啊，历年真题
+- [ai-collection](https://github.com/ai-collection/ai-collection) - 各种AI工具大合集，数都数不完，各种方面都有 ![img](https://img.shields.io/github/stars/ai-collection/ai-collection)
+
+## 20230428
+
+- [CSS Demo: clip-path](https://interactive-examples.mdn.mozilla.net/pages/css/clip-path.html) - 神级属性clip-path，应该铭记于心，做图片特效太好了
+
+## 20230419
+
+- [OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) - mid和sd的提示词可视化生成器，非常方便 ![img](https://img.shields.io/github/stars/Moonvy/OpenPromptStudio)
+- [vault-ai](https://github.com/pashpashpash/vault-ai) - 类似chatdoc，但是需要openai的token，可以参考其实现 ![img](https://img.shields.io/github/stars/pashpashpash/vault-ai)
+
+## 20230418
+
+- [大屏适配完美三方案比较及实现](https://juejin.cn/post/7220253332421738552) - 一篇文章讲大屏适配讲清楚了，最强王者
+- [v-scale-screen](https://github.com/Alfred-Skyblue/v-scale-screen) - 基于scale来适配大屏项目的vue指令，同时兼容vue3和vue2 ![img](https://img.shields.io/github/stars/Alfred-Skyblue/v-scale-screen)
+
+## 20230417
+
+- [Module ngx_http_v2_module](http://nginx.org/en/docs/http/ngx_http_v2_module.html) - nginx怎么在https的基础上开启http2呢，用这个模块，如果没有就需要重新编译nginx，带上参数--with-http_v2_module
+- [来画-动画和数字人智能生成平台](https://www.laihua.com/) - AI数字人
+- [alldata](https://github.com/alldatacenter/alldata) - 一个比较给力的大数据平台，主要是开源免费啊 ![img](https://img.shields.io/github/stars/alldatacenter/alldata)
+- [Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - 一个类似chatgpt的开源工具，目前还比较低智 ![img](https://img.shields.io/github/stars/LAION-AI/Open-Assistant)
+- [LlamaChat](https://github.com/alexrozanski/LlamaChat) - 可以直接运行在Mac上的大语言模型对话客户端，基于羊驼那几个model  ![img](https://img.shields.io/github/stars/alexrozanski/LlamaChat)
+
+
+## 20230414
+
+- [AgentGPT](https://github.com/reworkd/AgentGPT) - 自问自答无止境的gpt，需要用自己的token才能执行完全，否则只能几句就没了 ![img](https://img.shields.io/github/stars/reworkd/AgentGPT)
+- [Segment Anything | Meta AI](https://segment-anything.com/demo) - 抠图神器，找素材时的神器，Facebook出品基于AI抠图，功能有点类似remove
+
+## 20230413
+
+- [FreedomGPT](https://github.com/ohmplatform/FreedomGPT) - 可以非常方便部署的gpt，apache出品的模型，没有道德限制 ![img](https://img.shields.io/github/stars/ohmplatform/FreedomGPT)
+
+## 20230411
+
+- [ChatDOC](https://chatdoc.com/chatdoc/#/upload) - 基于AI来针对PDF文件提问，特别适合看简历之类的
+
+
+## 20230410
+
+- [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 如何问出好的prompt，AI user必备 ![img](https://img.shields.io/github/stars/dair-ai/Prompt-Engineering-Guide)
+- [langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) - 本地AI知识库的解决方案之一，基于langchain和ChatGLM，全中文支持 ![img](https://img.shields.io/github/stars/imClumsyPanda/langchain-ChatGLM)
+- [Chinese-Vicuna](https://github.com/Facico/Chinese-Vicuna) - 羊驼模型的中文版，启动支持了谷歌云的一键部署方案，非常方便 ![img](https://img.shields.io/github/stars/Facico/Chinese-Vicuna)
+
+
+## 20230407
+- [jackfrued/Python-100-Days: Python - 100天从新手到大师](https://github.com/jackfrued/Python-100-Days) - 入门python的好教材，AI门槛语言，至少熟悉下语法能看懂吧
+
 
 ## 20230309
 
