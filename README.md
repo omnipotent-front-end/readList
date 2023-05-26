@@ -6,7 +6,29 @@
 ## todo
 
 
-[推荐20个开源的前端低代码项目](https://mp.weixin.qq.com/s/ie0d4QGx5SNh7HKV-kz9-Q)
+## 20230526
+
+- [使用ImageDecoder API让GIF图片暂停播放 « 张鑫旭-鑫空间-鑫生活](https://www.zhangxinxu.com/wordpress/2023/05/js-imagedecoder-api-gif/) - 演示了ImageDecoder API对图片的精准控制能力
+
+## 20230523
+
+- [【第2944期】Cookie 的访问方式可能要有大变化了！](https://mp.weixin.qq.com/s/2DorBi5VmcIbVSBDw0juMA) - Partitioned cookie 和 First-Party Set 的区别是什么，如果不知道，可以看看这个文章。
+- [八大生产故障排查思路（收藏版）](https://mp.weixin.qq.com/s/vyJooj5EpjliYfDZLLueXA) - 教你怎么排查错误
+
+## 20230518
+
+- [提升 Web 核心性能指标的 9 个建议](https://mp.weixin.qq.com/s/RVswilfm0MMOBGaMs_3b4g) - 介绍了一些新的前端优化方案，比如不需要图片懒加载、fetch proirity API等
+
+## 20230517
+
+- [推荐20个开源的前端低代码项目](https://mp.weixin.qq.com/s/ie0d4QGx5SNh7HKV-kz9-Q) - 国内主流的几个开源的低代码基本都覆盖了，基本都是前端方面的
+- [一文教你实现PDF 预览和下载](https://mp.weixin.qq.com/s/vQYWEmcBbCvGTe8Gcsfc1Q) - 预览pdf，简单场景用iframe，复杂场景用pdf.js
+- [把小程序装进自己的App，比你想象中的还要简单](https://mp.weixin.qq.com/s/5Aj3RkdYXlpBE0GvBYSOLg) - FinClip，让自己的App内也有一整套小程序模型
+- [自研小程序引擎最快的方案](https://www.finclip.com/) - 通过FinClip来自研小程序引擎，应该是最快的方案，小程序容器技术
+- [前端自给自足UI设计稿?(Midjourney+MasterGo)｜掘金热文](https://mp.weixin.qq.com/s/0y1oV-Jiutlzvbfji4u3vw) - 通过AI自己生成页面设计图，自己开发的流程
+- [【第2934期】利用好 git bisect 这把利器，帮助你快速定位疑难 bug](https://mp.weixin.qq.com/s/p7bD_CQVoLZR4pLeMYWOaQ) - git-bisect确实是个神器哦，对付疑难杂症非常合适
+- [重磅推荐：一款极易扩展的聊天机器人框架](https://mp.weixin.qq.com/s/YZNXySbg5kzQH4UjTxYl-g) - Koishi聊天机器人框架，支持QQ、Telegram、飞书、Discord等平台
+- [前端重新部署如何优雅地通知用户刷新网页？](https://mp.weixin.qq.com/s/PIYf9_09XBJS4s9v5np99Q) - 怎么在不依赖服务端的情况下，通知用户页面有更新内容
 
 ## 20230508
 
