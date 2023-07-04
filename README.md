@@ -5,6 +5,113 @@
 
 ## todo
 
+## 20230630
+
+- [数据可视化大屏精选开源项目 - Awesome软件 - OSCHINA - 中文开源技术交流社区](https://www.oschina.net/project/awesome?columnId=60) - 一大把类似DataEase的大屏平台
+- [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) - vue大屏的神布局解决方案啊，非常灵活的可拖拽布局 ![img](https://img.shields.io/github/stars/jbaysolutions/vue-grid-layout)
+
+
+## 20230629
+
+- [Fuse](https://github.com/krisk/Fuse) - 一个功能强大、轻量级的模糊搜索库，不依赖于任何其他库。它可以让你在数据中进行近似字符串匹配，而不是完全相等。可以用来做一些前端复杂搜索逻辑 ![img](https://img.shields.io/github/stars/krisk/Fuse)
+- [hotkeys-js](https://github.com/jaywcjlove/hotkeys-js) - 各种键盘快捷键的监听 ![img](https://img.shields.io/github/stars/jaywcjlove/hotkeys-js)
+- [split](https://github.com/nathancahill/split) - 一个轻量级且可定制的分割布局库，常用于左侧菜单栏 ![img](https://img.shields.io/github/stars/nathancahill/split)
+
+## 20230628
+
+- [gpt4free](https://github.com/xtekky/gpt4free) - 通过逆向工程，利用第三方网站的API来免费使用chatGPT，不需要OpenAI的密钥 ![img](https://img.shields.io/github/stars/xtekky/gpt4free)
+- [freegpt-webui](https://github.com/ramonvc/freegpt-webui) - 基于gpt4free的UI页面 ![img](https://img.shields.io/github/stars/ramonvc/freegpt-webui)
+- [这些年在阿里学到的方法论](https://mp.weixin.qq.com/s/yPRPakU1UM5iVY-1bwiHJQ) - 一些在互联网做事的方法论，如何向上要资源、如何做目标管理、如何结构化思维等等
+- [5分钟看懂的WebAssembly入门指南](https://mp.weixin.qq.com/s/FKEuiWAWq9MS3ePXjec7uw) - 一个WebAssembly的入门体验教程，从如何将一段cpp程序编译成llvm，到wasm格式，以及如何在浏览器执行这个wasm程序
+- [如何成为架构师？](https://mp.weixin.qq.com/s/AkNuuHjguqm9aT4U4IXDFA) - 在阿里人眼中，怎么成为一个架构师
+- [AIGC 加持下的新一代文档搜索方案](https://mp.weixin.qq.com/s/yQscC-5j7pShy3lvZUQwrw) - 介绍了Embedding和Prompt Tuning的原理，以及一些已有的应用及基础设施
+
+## 20230627
+
+- [探秘神奇的IntersectionObserver：释放网页性能的黑科技！ - 掘金](https://juejin.cn/post/7247045258842996794) - IntersectionObserver的使用场景做了个汇总
+- [前端实现文件预览（pdf、excel、word、图片） - 掘金](https://juejin.cn/post/7246609845272395837) - excel、doc、pdf，可以看看
+
+
+## 20230626
+
+- [快速搭建对话机器人，就用这一招！](https://mp.weixin.qq.com/s/nHsg8Iu8BkMeiRCRoPr7ew) - 基于bert模型（谷歌的开源大语言模型）将问答数据变为向量、基于milvus来对向量进行快速搜索，通过postgresql存储回答，进行回复，一个不需要openAI的问答机器人。
+- [基于Bert、milvus、postgresql的问答机器人源码](https://github.com/milvus-io/bootcamp/tree/v0.7/solutions/QA_System) - 其实就是上文中的例子的源码。
+
+## 20230625
+
+- [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) - 中文大模型相关信息合集 ![img](https://img.shields.io/github/stars/HqWu-HITCS/Awesome-Chinese-LLM)
+- [ChatGPT的工作原理，这篇文章说清楚了！](https://mp.weixin.qq.com/s/BcuMoaLYLPVMB--GW7O5ow) - 一篇讲ChatGPT原理的文章，讲的太详细了，如果想简单入门，可以看我写的[写给小白的ChatGPT和AI原理](https://github.com/omnipotent-front-end/blog/issues/25)
+- [langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) - 手动自己搭建本地知识库，本地CPU模式非常卡，而且会出现gugugu的问题，暂时不知道原因 ![img](https://img.shields.io/github/stars/imClumsyPanda/langchain-ChatGLM)
+- [quivr](https://github.com/StanGirard/quivr) - 又一个类似dify、chatpdf的开源工具，可以私有化部署，只能基于openAI ![img](https://img.shields.io/github/stars/StanGirard/quivr)
+- [roop](https://github.com/s0md3v/roop) - 一键替换视频中人脸的功能。使用过程非常简单吗，只需要准要准备两张人脸（需要换的和需要被换的）照片，一个视频，就能轻松实现人脸的替换。 ![img](https://img.shields.io/github/stars/s0md3v/roop)
+
+## 20230619
+
+- [vue-danmaku](https://github.com/hellodigua/vue-danmaku) - 基于vue的弹幕组件，vue2、vue3均支持 ![img](https://img.shields.io/github/stars/hellodigua/vue-danmaku)
+- [建木: 建木是一个面向DevOps领域的极易扩展的开源无代码(图形化)/低代码(GitOps)工具。可以帮助用户轻松编排各种DevOps流程并分发到不同平台执行。](https://gitee.com/jianmu-dev/jianmu) - 一个可视化编排的流水线引擎功能平台，做DevOps的可以参考其实现及交互
+- [分享11个常用的VSCode快捷键，让你编码更高效](https://mp.weixin.qq.com/s/2UgPFS1wrn-k0rli1KuhOQ) - 几个常见的快捷键
+- [如何丝滑实现 ChatGPT 打字机流式回复？Server-Sent Events！ - 掘金](https://juejin.cn/post/7244604894408933432) - gpt的打字机效果实现方案
+- [关于 Vue3 + setup + ts 使用技巧的总结](https://mp.weixin.qq.com/s/4iIfR4OHCsRZDumxvJc5jQ) - 回归一下一些vue3的语法细节
+- [手把手教你本地部署清华大学KEG的ChatGLM-6B模型——Windows+6GB显卡版本和CPU版本的本地部署 - 知乎](https://zhuanlan.zhihu.com/p/620455056) - chatglm的私有化部署教程，基于windows的GPU和CPU模式都有
+- [api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm) - 开源大模型的api统一为openai的模式，这样方便一键切换openai的生态工具通过开源大模型来实现。这个库反倒是很难按照文档跑起来 ![img](https://img.shields.io/github/stars/xusenlinzy/api-for-open-llm)
+- [快速免费搭建 ChatGPT 私有训练模型](https://mp.weixin.qq.com/s/pnSG3t8rw6QvifA3p9fa2g) - 介绍一个ai平台dify，可以自己进行训练集上下文和对外暴露ui、接口等功能。目前基于openai，但是可以通过api-for-open-llm替换为开源大模型的接口，再基于部署的开源大模型来完成全套体验。整个流程我在windowsCPU模式下跑通了，唯一的问题就是安装TDM-GCC时不要用最新版，而是用5.1版本，并在安装时选择openMp，否则自己用gcc编译时会报错。
+
+## 20230616
+
+- [lucky-canvas](https://github.com/buuing/lucky-canvas) - 一大把抽奖组件，营销可以走捷径了 ![img](https://img.shields.io/github/stars/buuing/lucky-canvas)
+- [excalidraw](https://github.com/excalidraw/excalidraw) - 画板 ![img](https://img.shields.io/github/stars/excalidraw/excalidraw)
+
+## 20230615
+
+- [go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) - 仿bing的AI聊天界面和后端proxy ![img](https://img.shields.io/github/stars/adams549659584/go-proxy-bingai)
+- [chat-ui · GitHub Topics](https://github.com/topics/chat-ui) - github上各种聊天组件
+- [vue-beautiful-chat](https://github.com/mattmezza/vue-beautiful-chat) - 一个vue2生态的聊天组件，非常轻量级，适合做大模型对话 ![img](https://img.shields.io/github/stars/mattmezza/vue-beautiful-chat)
+
+## 20230614
+
+- [模型推理与部署 · ymcui/Chinese-LLaMA-Alpaca Wiki](https://github.com/ymcui/Chinese-LLaMA-Alpaca/wiki/%E6%A8%A1%E5%9E%8B%E6%8E%A8%E7%90%86%E4%B8%8E%E9%83%A8%E7%BD%B2) - 基于LLaMA-Alpaca的中文大模型进行私有化部署和本地问答系统的搭建
+- [Yidadaa/ChatGPT-Next-Web: One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。](https://github.com/Yidadaa/ChatGPT-Next-Web) - 基于此页面改造为调用自己的大模型进行对话，网易云课堂实践过。
+
+
+## 20230612
+
+- [chainlit](https://github.com/Chainlit/chainlit) - 快速完成基于gpt的UI开发，可以衔接langchain ![img](https://img.shields.io/github/stars/Chainlit/chainlit)
+
+## 20230608
+
+- [在线画甘特图 - ioDraw](https://www.iodraw.com/gantt) - 在线甘特图，项目管理好工具
+
+## 20230607
+
+
+- [fyne](https://github.com/fyne-io/fyne) - go的UI库，类似.net的windowsForm ![img](https://img.shields.io/github/stars/fyne-io/fyne)
+
+
+## 20230606
+
+- [chat-ui](https://github.com/huggingface/chat-ui/) - huggingface 的聊天AI，基于huggingface的社区model ![img](https://img.shields.io/github/stars/huggingface/chat-ui/)
+
+## 20230605
+
+- [cobra](https://github.com/spf13/cobra) - go的cli框架，k8s、docker等知名工具均基于此 ![img](https://img.shields.io/github/stars/spf13/cobra)
+
+## 20230602
+
+- [目前工资最高的几家外包公司汇总！（2023最新版）](https://mp.weixin.qq.com/s/rd0Y2Ih1vo11cxzy2BcUYQ) - 可以看看有哪些外包公司，用来避雷啊！
+
+
+## 20230531
+
+- [京东短网址高可用提升最佳实践 | 京东云技术团队 - 掘金](https://juejin.cn/post/7232088054763880509) - 介绍了传统的短链系统实现原理，以及通过专利性自增算法来不再需要查重短链从而提升性能的方式。其实除了这种方式，也可以通过布隆过滤器来高效的解决短链的查重复杂度。这也是京东的短链目前的算法。
+- [三种虚拟列表原理与实现 - 掘金](https://juejin.cn/post/7232856799170805820) - 虚拟列表的实现，老生常谈，本文介绍了react-window这个库的实现
+- [【第2951期】PageSpy：一个适用于远程 Web 项目调试的工具](https://mp.weixin.qq.com/s/8a1bdZxzwkLuGS7vLsl_Ww) - 一个类似vconsole和remotejs.com的远程控制台调试工具
+- [面试必备：四种经典限流算法讲解](https://mp.weixin.qq.com/s/tH03dwGv0C18EZnuHq2omA) - 本文介绍了四种限流算法的原理和区别，即使是云原生时代可以通过k8s、istio、kong网关等解决限流，但是原理也是一样的
+
+## 20230529
+
+- [bytecodealliance/javy: JS to WebAssembly toolchain](https://github.com/bytecodealliance/javy) - 一个将JavaScript代码转为WebAssembly的工具，从而提高性能、安全性等。
+- [免费用 GPT4，为啥这些网站的聚合做的这么好？! - 掘金](https://juejin.cn/post/7233432152132698173) - 一些AI聚合站，比如Poe、Slack、Discord等
+- [AIGC.CASA](https://www.aigc.casa/) - 一大堆AI工具，分类的比较好
 
 ## 20230526
 
