@@ -5,6 +5,68 @@
 
 ## todo
 
+
+
+
+## 20230726
+
+- [VueConf US 2023 尤雨溪演讲总结](https://mp.weixin.qq.com/s/ZipwwkjpvU8vMfbWrGB6ZQ) - vue3最近的进展汇报
+- [大模型微调方法总结](https://mp.weixin.qq.com/s/TwH7CaJTO9RinGj4ftaa3w) - 总结涵盖了当前主流的大模型微调方法的核心思想、实现和优缺点。比如LoRA、Adapter、Prefix-tuning、P-tuning、Prompt-tuning。这也是当前主流的中文预训练语言模型以及它们采用的微调方法。
+- [structuredClone() global function - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/structuredClone) - js原生深拷贝，一个函数即可
+- [git工作原理](https://sites.google.com/a/chromium.org/dev/developers/fast-intro-to-git-internals) - 概述了Git的核心概念和对象模型,以及一些探索Git内部工作的有用命令。Git通过blobs、trees和commits三种对象实现了分布式版本控制系统。
+- [poster-design](https://github.com/palxiao/poster-design) - 在线海报图片生成器，非常方便，做图片比如文章配图什么的 ![img](https://img.shields.io/github/stars/palxiao/poster-design)
+
+## 20230724
+
+- [前端基建原来可以做这么多事情 - 掘金](https://juejin.cn/post/7256879435339628604) - 前端基建可以做哪些事情
+
+## 20230720
+
+- [chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - 云原生时代混沌工程的重大利器，故障演练 ![img](https://img.shields.io/github/stars/chaos-mesh/chaos-mesh)
+
+## 20230719
+
+- [swrv](https://github.com/Kong/swrv) - swr的vue版本，支持vue2和vue3 ![img](https://img.shields.io/github/stars/Kong/swrv)
+- [Vue 项目技术升级：引入 SWR，DX体验由农业时代进入工业时代 - 掘金](https://juejin.cn/post/7257048132063674424) - 一个vue2项目升级的经验，包含了组合api和请求库的改造选型，可以参考
+
+## 20230713
+
+- [现代前端框架的渲染模式 - 掘金](https://juejin.cn/post/7241027834490437669) - 一文讲清前端渲染的不同方式，以及发展史，不仅覆盖了传统的CSR、SSR等模式,还涵盖了最新的流式渲染、岛屿架构等前沿模式
+- [开源项目介绍｜OMI—Web Components 框架](https://mp.weixin.qq.com/s/BFx0KlY4uYgRZgpncPahqw) - 腾讯开源的基于webcomponent的组件框架和组件库
+
+## 20230712
+
+- [clipanion](https://github.com/arcanis/clipanion) - 又一个和oclif类似的cli范式 ![img](https://img.shields.io/github/stars/arcanis/clipanion)
+- [别担心！css渐变是可以做到的](https://mp.weixin.qq.com/s/H3ZiMCid0zvXS6O-em69kw) - css渐变文字等高级场景
+
+## 20230711
+
+- [ts-migrate：大规模迁移到 TypeScript 的工具](https://mp.weixin.qq.com/s/PF3NBPQpS67IZDTMQRFNhA) - 如何大规模迁移JavaScript项目到typescript项目
+- [使用chatGPT快速画出高质量的流程图](https://mp.weixin.qq.com/s/C95yIJOkU0w52SLNlEBGdg) - 基于AI来画流程图，时序图
+- [ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw) - 中文法律大模型 ![img](https://img.shields.io/github/stars/PKU-YuanGroup/ChatLaw)
+- [面试官：sessionStorage可以在多个Tab之间共享数据吗？](https://mp.weixin.qq.com/s/tPZifwZFOBDoHv36U11gkQ) - 在某些情况下，通过 window.open 打开的新窗口或通过链接（例如，在当前页面使用 target="_blank" 属性的链接）打开的新页面，可能会继承父页面的 sessionStorage 数据。这种情况主要取决于浏览器的实现方式和当前网页的上下文。请注意，这种行为可能因浏览器及其版本而有所不同，因此不保证在所有浏览器和版本中都能够复制 sessionStorage 数据。所以在实际应用中，最好不要依赖这种行为。
+- [Google 发布的 10 个生成式 AI 免费课程](https://mp.weixin.qq.com/s/XM3opV32euXy0sN3fjLbjQ) - 谷歌推出的AI免费课程，值得一看，科普性质
+
+## 20230710
+
+- [11个每个Web开发人员都应该拥有的VS Code扩展](https://mp.weixin.qq.com/s/_AYneFBwAe4GCG-y_8LCbA) - 几个比较好用的vscode扩展
+- [chatpdf](https://github.com/austin2035/chatpdf/) -  一个类似chatpdf的文档工具，基于openAI，可以自己私有部署 ![img](https://img.shields.io/github/stars/austin2035/chatpdf/)
+- [对数组进行分类：array.groupBy](https://mp.weixin.qq.com/s/eSOoRUfYLlQGHtqIEutgJA) - 提案而已，生产环境不可用，对标lodash的同名方法https://www.lodashjs.com/docs/lodash.groupBy
+- [更灵活的 Map ：array.flatMap()](https://mp.weixin.qq.com/s/48DpGzwitLxQ2t7u4dEfrQ) - array.flatMap，可以简化点操作
+- [go-nunu/nunu: A CLI tool for building Go applications.](https://github.com/go-nunu/nunu) - 一个go语言的脚手架，应用层，类似vue-cli的定位，一些生态选项可以参考
+
+
+## 20230707
+
+- [makeapie echarts社区图表可视化案例](https://www.makeapie.cn/echarts) - echart官方的泪水isqqw的网站，一大堆案例用来参考
+- [PPChart - 让图表更简单](http://www.ppchart.com/#/) - 又一个类似isqqw的网站
+
+
+## 20230705
+
+- [首页 - ECharts图表集,ECharts demo集,echarts gallery社区,Make A Pie,分享你的可视化作品isqqw.com](https://www.isqqw.com/) - 一大波echart的json正在靠近，真是神站
+- [master](https://github.com/Anjaxs/WebStack-vue/tree/master) - 一个开源的快速导航，可以用来做一些首页入口的功能，比较好看 ![img](https://img.shields.io/github/stars/Anjaxs/WebStack-vue/tree/master)
+
 ## 20230630
 
 - [数据可视化大屏精选开源项目 - Awesome软件 - OSCHINA - 中文开源技术交流社区](https://www.oschina.net/project/awesome?columnId=60) - 一大把类似DataEase的大屏平台
