@@ -6,7 +6,83 @@
 ## todo
 
 
+## 20230831
 
+- [Developer Roadmaps](https://roadmap.sh/roadmaps) - 如果想要系统学习互联网技术，可以按照这个里面介绍的技能树来完成。这个非常的好。
+
+
+## 20230830
+
+- [ChatLaw](https://chatlaw.cloud/lawchat/#/) - 中国的法律大模型，可以简单咨询法律问题。
+- [21个MySQL表设计的经验准则](https://mp.weixin.qq.com/s?__biz=Mzg3NzU5NTIwNg==&mid=2247501746&idx=1&sn=42f2f33993096a21ae5183cc734d3afd&chksm=cf22189bf855918d0a503074883e4e62ba6ffb477328b254807fe169785daece5220ca286c33&token=795699299&lang=zh_CN&scene=21#wechat_redirect) - 数据库表设计的准则，非常中肯
+- [字节国际支付十连问](https://mp.weixin.qq.com/s/nvilmPmikwk7jPNc4YAhGA) - 字节后端的面试真题，可以感受一下
+- [big.js](https://github.com/MikeMcl/big.js) - 最轻量级的JavaScript数学运算库 ![img](https://img.shields.io/github/stars/MikeMcl/big.js)
+- [字节前端架构组工程化代码片段](https://mp.weixin.qq.com/s/xGxQKe1NUQCk-TjH6nWfQg) - 一个字节跳动的拉取工程的脚手架，里面的思路很好，通过download和compressing来得到文件，而不是用git的api，这样非常简洁，值得参考。
+- [每个前端都要学的【前端自动化部署】，Devops，CI/CD](https://mp.weixin.qq.com/s/3RBtOh-uCV4q1ABWQIzHpg) - 写给前端看的jenkins使用流程，虽然已经用argo和gitlabCI等平替，但是jenkins还是一个老而稳的工具
+
+## 20230824
+
+- [学会让 AI 大模型产品来替我们搬砖，使用免费 CodeGeeX 插件提高开发效率](https://mp.weixin.qq.com/s/He1cN1bfDSXXhN343Qn38A) - 这个是真的神器了，体验很好，比一众老外的如bito什么的好多。就是每天有使用额度，吐血。
+
+## 20230823
+
+- [一个 Github Star 值多少钱？](https://mp.weixin.qq.com/s/8LfqCl3Bpbxoei4y4VqjIg) - 看看Github怎么买star
+- [Console log output right next to your code](https://console-ninja.com/) - console.log神器，让你不需要每次都打开F12了
+- [tw93/Pake: 🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用](https://github.com/tw93/Pake) - 基于Tarui的极简打包工具，可以非常方便的把网页打包成客户端
+
+## 20230821
+
+- [Knit：专业的 Prompt 管理和调试工具](https://mp.weixin.qq.com/s/MSNOmEp1d-NmGFcmFSIMwQ) - 一个免费的，用来调试prompt的工具
+- [npmgraph/npmgraph: A tool for exploring NPM modules and dependencies](https://github.com/npmgraph/npmgraph) - 一个在线查看npm依赖树的工具，本人也参与过开发
+- [antdv-pro](https://github.com/antdv-pro/antdv-pro) - 基于vue3、vite4、antdesign-vue、typescript、pnpm、unocss、pinia的中后台工程 ![img](https://img.shields.io/github/stars/antdv-pro/antdv-pro)
+
+## 20230818
+
+- [React 前端应用中快速实践 OpenTelemetry 云原生可观测性(SigNoz/K8S)](https://mp.weixin.qq.com/s/5CCYEenYH661neB14vAIQQ) - 类似zipkin的链路追踪工具，让前端请求报错就可以看出底层哪个子依赖服务的调用关系。
+- [如何自动化完成 前端项目兼容性检查](https://mp.weixin.qq.com/s/k7WJIxt6zWN4vt8F3c9ntA) - 使用eslint插件来完成浏览器兼容性的自动化测试
+- [了解并实践 Monorepo 和 pnpm](https://mp.weixin.qq.com/s/vayQ1QHkOwBmIszfOOGlnw) - 了解下pnpm，以及它如何管理monorepo，相关的生态工具
+- [为什么做的B端表盘页总是感觉不高级？](https://mp.weixin.qq.com/s/2Wp_wIOBru5PM9D7Hkp1RQ) - 一个B端表盘页的设计优化案例，每天提高点产品设计能力
+- [wangEditor开源库作者：教你如何写出眼前一亮 简历](https://mp.weixin.qq.com/s/nbIL_4HEaa-RpRyfNZKrpw)  - 如何优化自己的简历
+- [【阿里】如何检测出你们安装的依赖是否安全](https://mp.weixin.qq.com/s/Dr0vdocA74_mahrJlzrI9g) - 介绍了npm audit来检测三方包漏洞。事实上企业级都会通过一些更加通用的SCA扫描工具来进行全盘的三方安全漏洞扫描
+- [Open-Source UI elements - made with CSS](https://uiverse.io/) - 很多惊艳的样式，button、switch、checkbox、input、form、card等。做炫酷的时候值得一看
+- [AIDesign](https://ailogo.qq.com/guide/brandname) - AI生成LOGO图片，是相当的给力啊
+
+## 20230817 
+
+ - [工程的 package.json 中的 ^~ 该保留吗？](https://mp.weixin.qq.com/s/UzbnfI04S7z2my-plwMhuw) - 复习一下^和~的区别
+
+## 20230816
+
+- [Hutool：一行代码搞定数据脱敏 | 京东云技术团队 - 掘金](https://juejin.cn/post/7265630149324144674) - 数据脱敏的几个工具库，在大数据领域和安全后台很常见
+
+
+## 20230815
+
+- [vue-naive-admin](https://github.com/zclzone/vue-naive-admin) - 基于 Vue3 + Vite + Pinia + Unocss + Naive UI 的轻量级后台管理模板 ![img](https://img.shields.io/github/stars/zclzone/vue-naive-admin)
+
+## 20230810
+
+- [程序员海外Remote工作探索和总结 - 掘金](https://juejin.cn/post/7264920948751188008) - 远程办公的一个个人总结，值得一看，不失为一种可能性
+- [unocss/unocss: The instant on-demand atomic CSS engine.](https://github.com/unocss/unocss) - 一个类似tailwind Css但是没有内置class的方案，又灵活、又可以解决tailwindcss想解决的问题
+
+## 20230808
+
+- [TypeScript 教程 - 网道](https://wangdoc.com/typescript/) - 阮一峰的typescript教程，写的非常简洁易懂，而且内容非常全面，值得一看
+
+## 20230807
+
+- [美团前端研发框架Rome实践和演进趋势 - 美团技术团队](https://tech.meituan.com/2023/08/03/meituan-rome-practice.html) - 前端通用开发构建工具的最佳实践
+- [vite-plugin-node-polyfills](https://github.com/davidmyersdev/vite-plugin-node-polyfills) - vite中使用了node的最佳伴侣，试了很多这个最靠谱 ![img](https://img.shields.io/github/stars/davidmyersdev/vite-plugin-node-polyfills)
+
+## 20230804
+
+- [How to Migrate from Vue CLI to Vite - Vue School Articles](https://vueschool.io/articles/vuejs-tutorials/how-to-migrate-from-vue-cli-to-vite/) - 怎么将vue-cli迁移到vite，收藏了，方便日后用于项目的实践
+
+
+## 20230802
+
+- [Linux 中 CPU 利用率是如何算出来的？](https://mp.weixin.qq.com/s/ggOD1Du-V4ROV0Jy605mKg) - Linux通过在固定时间间隔内对CPU进行采样,统计这段时间内CPU在用户态、内核态和空闲状态下的运行时间,累加到内核变量中,然后从中计算出CPU的利用率。
+- [vue-demi](https://github.com/vueuse/vue-demi) - 想同时兼容vue2和vue3的库，可以使用这个来完成，这也是vueuse兼容vue2&vue3的解决方案 ![img](https://img.shields.io/github/stars/vueuse/vue-demi)
 
 ## 20230726
 
