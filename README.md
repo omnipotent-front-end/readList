@@ -2,8 +2,97 @@
 
 每日阅读的文章，顺便点评两句，笑看技术
 
-
 ## todo
+
+
+## 20231007
+
+- [learning-vue3](https://github.com/chengpeiquan/learning-vue3) - 一个讲vue3的好系列教程，非常给力，一本书完全开源 ![img](https://img.shields.io/github/stars/chengpeiquan/learning-vue3)
+
+## 20230927
+
+- [解决import导入顺序杂乱无章的问题](https://mp.weixin.qq.com/s/Enro1Aiac3wO_CjPBx4n6g) - 这个插件可以指定import时的顺序规则
+
+## 20230926
+
+- [documate](https://github.com/AirCodeLabs/documate) - 让你的vitepress文档拥有AI问答能力，基于openai，云谦也在使用 ![img](https://img.shields.io/github/stars/AirCodeLabs/documate)
+- [create-chrome-ext](https://github.com/guocaoyi/create-chrome-ext) - 一个创建浏览器扩展的脚手架，各种前端框架均支持 ![img](https://img.shields.io/github/stars/guocaoyi/create-chrome-ext)
+
+
+
+## 20230922
+
+- [Organizing a Go module - The Go Programming Language](https://go.dev/doc/modules/layout) - go官方推荐的go Module代码组织结构
+
+
+## 20230921
+
+- [大模型LangChain框架基础与使用示例](https://mp.weixin.qq.com/s/KrWM3cMywMvYUiawRZ94Gg) - 一篇关于LangChain的工作原理和架构的入门教程，其中langchain的架构图不错。
+
+## 20230920
+
+- [ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 大量中文prompts收集，可以复制后使用，效果非常的好 ![img](https://img.shields.io/github/stars/rockbenben/ChatGPT-Shortcut)
+
+## 20230919
+
+- [重新学习 scrollIntoview](https://mp.weixin.qq.com/s/KYrnBKL0WkWcOymNRMXfuA) - 原来scrollIntoview这么强大，之前没发现
+- [文心一言](https://yiyan.baidu.com/learn) - 大模型AI时代，首先需要学会怎么写prompts，学会对话。
+
+
+## 20230918
+
+- [Smooth and simple transitions with the View Transitions API - Chrome Developers](https://developer.chrome.com/docs/web-platform/view-transitions/) - ViewTransitions API的使用介绍，单页应用内部跳转切换的福音，浏览器级别原生过渡动效。
+- [终于，用浏览器就能mock请求了](https://mp.weixin.qq.com/s/mLGoZmpeoscScnEYOgmB4g) - 浏览器可以方便的修改请求content了，非常适合来做mock
+
+## 20230916
+
+- [AIGC商业实战案例展示！辅助完成中秋节视觉设计](https://mp.weixin.qq.com/s/YQNbelOBKuMeD0-qU0Trvw) - 一个类似大促弹框的图片，在怎么从AI到PS到完成的完整流程。
+- [v0.dev by Vercel Labs](https://v0.dev/) - 通过AI来完成UI组件的样式设计，甚至直接生成代码
+- [前端图片压缩上传，减少等待时间！优化用户体检 - 掘金](https://juejin.cn/post/7278639855198208056) - 可以参考，来解决某些场景用户自由上传大图片的问题，原理就是使用canvas元素将原始图片绘制并压缩到指定的尺寸
+
+## 20230915
+
+- [echoserver: A simple echo server for testing HTTP clients.](https://echoserver.dev/) - 一个用来测试http的工具，可以通过参数自定义响应体和响应头，非常方便，适合测试
+- [permission.site](https://github.com/chromium/permission.site) - 各种webAPI的实现，比如说蓝牙、摄像头、通知、定位之类的 ![img](https://img.shields.io/github/stars/chromium/permission.site)
+
+## 20230914
+
+- [Vue3全家桶之——Pinia状态管理 - 掘金](https://juejin.cn/post/7278246015182061583#heading-26) - 一个介绍pinia的文章，看看有没有自己的认知盲点，做好知识储备
+- [09-09 Setup函数的职责以及注册功能的实现](https://mp.weixin.qq.com/s/oPU8_xlP9HpXMdjfIS4x1A) - 很好的诠释了setup函数应该做什么，以及如何做。setup职责就是代码执行的一个流程，最好不要操作逻辑，只作为一个定义及输入输出方法的一个过程。
+- [codeblitz](https://github.com/opensumi/codeblitz) - 支付宝开源的一款非常全面的WebIDE，基于react来完成的 ![img](https://img.shields.io/github/stars/opensumi/codeblitz)
+- [Hover](https://github.com/IanLunn/Hover) - hover相关的动画，还不错，特别是按钮和图标动效 ![img](https://img.shields.io/github/stars/IanLunn/Hover)
+
+
+## 20230913
+
+- [Bun 1.0 正式发布，快如闪电，遥遥领先！-前端里](http://www.yyyweb.com/5537.html) - Node运行时的替代品，现在Bun发布了1.0稳定可用版本。Bun的速度比Node快3倍左右，但是兼容性和社区生态不够好。根据网易程序员的实践，node项目可以替换，但是前端项目不要尝试。
+- [ES7、ES8、ES9、ES10、ES11、ES12都增加了哪些新特性？ - 掘金](https://juejin.cn/post/7243677232827891773) - 本文是对ES7至ES12常用到的特性的总结和归纳，有详细的定义语法和例子。
+
+
+## 20230912
+
+- [Vue.js Examples](https://vuejsexamples.com/) - 大量Vue相关的示例，包含了各种范围和场景
+- [解析Node.js镜像原理，轻松构建高效CI/CD流程](https://mp.weixin.qq.com/s/LcsgBFxOBIJRU5ZAUVPP8Q) - 怎么封装node的基础镜像，Alpine和slim、Debian之间的区别是什么？
+- [drag-table](https://github.com/wangdaoo/drag-table) - elementui表格行和列的拖拽功能demo，基于sortablejs，还挺好用的 ![img](https://img.shields.io/github/stars/wangdaoo/drag-table)
+- [The complexity of writing an efficient NodeJS Docker image - Specfy](https://www.specfy.io/blog/1-efficient-dockerfile-nodejs-in-7-steps) - 如果写一个前端项目的dockerfile，怎么一步一步优化构建速度和镜像大小。
+- [nodejs-reference-architecture](https://github.com/nodeshift/nodejs-reference-architecture) - IBM和红帽出品的Node应用生态最佳实践 ![img](https://img.shields.io/github/stars/nodeshift/nodejs-reference-architecture)
+- [MyBatis 动态 SQL 最全教程，这样写 SQL 太爽了！](https://mp.weixin.qq.com/s/hD1z2O_QYYZk03KNVOwu4A) - 了解下啥是MyBatis，ORM 框架和 MyBatis 各有其适用的场景。ORM 框架适用于简单的查询操作，而 MyBatis 的动态 SQL 功能则更适合处理复杂的业务逻辑。
+- [新一代 Web 预渲染技术！](https://mp.weixin.qq.com/s/wHM9yHA6YxgIMcRKyPafiA) - 性能优化又有新方向了，这个好，提前预渲染后面重要的页面，看起来比较适合多页系统。
+
+## 20230908
+
+- [Building a Frontend Framework; Reactivity and Composability With Zero Dependencies](https://18alan.space/posts/how-hard-is-it-to-build-a-frontend-framework.html) - 通过Proxy和WebComponent来实现一个具有数据响应式和组件组合式的极简前端框架
+- [Yesicon - 精选全球高品质、开源、免费的矢量图标库](https://yesicon.app/) - icon图标搜索站，作者利用ChatGPT翻译了Iconify的18万个图标名，可以方便的中文搜索。
+
+
+## 20230905
+
+- [kb, kB, KiB… What’s Up With That? | Pacoup.com](https://web.archive.org/web/20150324153922/https://pacoup.com/2009/05/26/kb-kb-kib-whats-up-with-that/) - kb, kB, KiB   几个单位如何区分清楚，涉及到存储时经常遇到，小心乌龙
+
+
+## 20230904
+
+- [浏览器也拥有了原生的 “时间切片” 能力！](https://mp.weixin.qq.com/s/ZHd27HEBFg5qArFc8KVLRw) - 时间切片是React发明实现的，现在浏览器也自己实现了。在Vue生态中，可以联想下nextTick、setTimeout、MessageChannel，宏微任务等概念。正常的业务场景（非性能瓶颈），是不应该用到的，如果用到了，就应该深层次的反思下。
 
 
 ## 20230831
