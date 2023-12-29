@@ -4,11 +4,176 @@
 
 ## todo
 
+## 20231229
+
+- [https://vue-dragscroll.clebinfosys.com/](https://vue-dragscroll.clebinfosys.com/) - vue的画布拖拽库，可以拖拽整个dom的指令，适合画图或者大面积区域组件
+
+## 20231226
+
+- [build-ai-coding-assistant](https://github.com/phodal/build-ai-coding-assistant) - 如何打造个人编码助手 ![img](https://img.shields.io/github/stars/phodal/build-ai-coding-assistant)
+
+
+## 20231225
+
+- [盘点2023年前端大事件](https://mp.weixin.qq.com/s?__biz=MzU2MTIyNDUwMA==&mid=2247525342&idx=1&sn=c97ab520c5394f56d88fa32cd80d8bd9&scene=21#wechat_redirect) - 回顾一下前端界的2023年重大事情
+- [两行CSS让长列表性能渲染提升7倍！](https://mp.weixin.qq.com/s/9UT4-8GRkOeQbmGH8_X6xg) - 虚拟列表的浏览器官方API解决方案
+- [云音乐 AI Agent 探索实践](https://mp.weixin.qq.com/s/2O5z9rAvLxU3ZsU7k4xdhA) - 云音乐怎么玩AI Agent的，绝对值得一看，langchainjs的使用范例。
+
+## 20231219
+
+- [一文带你了解前端渲染模式演进史](https://mp.weixin.qq.com/s/e5J54ZgQSXcQGjq70bK0ww) - CSR/同构SSR/流式SSR，其中React Server Component就是为了支持流式SSR。
+- [一文掌握PM和PMO必知的50个项目管理术语](https://mp.weixin.qq.com/s/8d8YMp9Y2JZ-GJOrzxrgOQ) - 项目管理需要掌握的一些基本的方案论和概念，怎么把控进度
+
+## 20231215
+
+- [容器日志采集利器Log-Pilot-阿里云开发者社区](https://developer.aliyun.com/article/674327) - 阿里云容器日志采集库Log-Pilot的教程。
+- [小米如何用数据智能驱动业务增长](https://mp.weixin.qq.com/s/YumkyL3pSsXNAtJiQSZrmg) - 如何利用AI、BI、CI来帮助业务增长。数据智能产品经理值得一看。
+- [Vue使用prerender-spa-plugin进行网页预渲染 - 掘金](https://juejin.cn/post/7059771777525743624) - SPA为了优化SEO，如何做预渲染
+
+## 20231214
+
+- [Azure OpenAI 详细申请与使用教程，打造个人专属 ChatGPT 方案-CSDN博客](https://blog.csdn.net/qq_39164154/article/details/130913879) - 完整介绍如何通过azureapi来完成对gpt的接口调用
+
+## 20231211
+
+- [saadeghi/daisyui: 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library](https://github.com/saadeghi/daisyui) - 基于TailwindCSS的组件库，非常美
+
+
+## 20231207
+
+- [webpack-to-vite/README-zh.md at main · originjs/webpack-to-vite](https://github.com/originjs/webpack-to-vite/blob/main/README-zh.md) - 从webpack或者vue-cliu迁移升级到vite的指南，非常细节，官方收录
+
+## 20231206
+
+- [前端代码重复度检测 - 掘金](https://juejin.cn/post/7288699185981095988) - 介绍了jscpd，用来在本地测试代码重复率的工具
+
+
+## 20231204
+
+- [Patterns.dev](https://www.patterns.dev/#patterns) - 关于js、react、vue的一些设计模式和编码技巧，还是非常好的。
+
+## 20231130
+
+- [qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 英语、编程API，键盘训练，有点类似金山打字通，既可以联练习键盘又可以练习英文 ![img](https://img.shields.io/github/stars/RealKai42/qwerty-learner)
+
+## 20231129
+
+- [react-login-page](https://github.com/uiwjs/react-login-page) - React构建的登录组件，开箱即用 ![img](https://img.shields.io/github/stars/uiwjs/react-login-page)
+- [ts-config-helper](https://github.com/yue1123/ts-config-helper) - ts配置文件可视化工具，文档详细，适合推理和反向推理 ![img](https://img.shields.io/github/stars/yue1123/ts-config-helper)
+- [kwok](https://github.com/kubernetes-sigs/kwok) - kubectl和k8s的mock版，可以用来专门熟悉k8s命令行操作 ![img](https://img.shields.io/github/stars/kubernetes-sigs/kwok)
+
+## 20231128
+
+- [分布式锁实现原理与最佳实践](https://mp.weixin.qq.com/s/JzCHpIOiFVmBoAko58ZuGw) - 以超卖问题为例，解释分布式锁的各种实现机制
+- [谈谈钉钉工作台的体验优化及技术思考](https://mp.weixin.qq.com/s/jAvU34fOwyJzW62l9QekQA) - 前端架构优化的一些方案和结构
+- [video-retalking](https://github.com/OpenTalker/video-retalking) - 给视频和音频，得到新视频，改变人的发言和口型 ![img](https://img.shields.io/github/stars/OpenTalker/video-retalking)
+- [Wonder3D](https://github.com/xxlong0/Wonder3D) - 2D图片变成3D模型 ![img](https://img.shields.io/github/stars/xxlong0/Wonder3D)
+
+## 20231122
+
+- [screenshot-to-code](https://github.com/abi/screenshot-to-code) - 使用gpt4，从一个图片自动生成html ![img](https://img.shields.io/github/stars/abi/screenshot-to-code)
+- [lit](https://github.com/lit/lit/) - webcomponent开发框架，轻量级 ![img](https://img.shields.io/github/stars/lit/lit/)
+- [async-validator](https://github.com/yiminghe/async-validator) - 一个比较强大的校验解决方案库，可以和表单配合使用 ![img](https://img.shields.io/github/stars/yiminghe/async-validator)
+
+## 20231121
+
+- [Explicit Resource Management: Exploring JavaScript's and TypeScript's new feature | iliazeus](https://iliazeus.github.io/articles/js-explicit-resource-management-en/) - 介绍using语法，简化了资源管理代码的编写，自动合理地完成资源的获取与释放
+
+## 20231120
+
+- [💨 The fastest way to deploy your Javascript app to Kubernetes 🌬️ ✨ - DEV Community](https://dev.to/odigos/the-fastest-way-to-deploy-your-javascript-app-to-kubernetes-2j33) - zero to hero 文章，介绍如何快速部署一个前端应用到 kubernetes，介绍了dockerfile怎么写、k8s的yaml怎么配置一个deployment，非常适合小白
+
+
+## 20231117
+
+- [如何优雅的控制网页请求的优先级？](https://mp.weixin.qq.com/s/S3LXmSThSBFfoOf2-gsC6g) - 如何通过代码控制css、JavaScript、图片、fetch的优先级
+- [滴滴 Redis 异地多活的演进历程](https://mp.weixin.qq.com/s/UcyO3J0XEEe1sH3frmmNDg) - 系统设计好文章，主从架构、双写架构、双向同步架构等
+- [译：为什么你应该用 React Query](https://mp.weixin.qq.com/s/0-NcoNKrDup-62nMqZd43w) - 介绍了reactquery解决了useEffect和fetch的哪些问题
+- [TS 入门完全指南 - 掘金](https://juejin.cn/post/7215796935298596920) - 一篇介绍typescript，ts很详细的入门文章，可以作为api来查阅哦
+
+## 20231114
+
+- [hel](https://github.com/Tencent/hel) - 腾讯出品的微前端，基于SDK维护，脱离构建工具 ![img](https://img.shields.io/github/stars/Tencent/hel)
+
+
+## 20231113
+
+- [hello-algo](https://github.com/krahets/hello-algo) - 一个介绍算法的非常全量的教程，包含各种语言和各种算法的图解 ![img](https://img.shields.io/github/stars/krahets/hello-algo)
+- [cmdb](https://github.com/veops/cmdb) - 一个开源的CMDB平台，用来管理企业IT资产的分布情况 ![img](https://img.shields.io/github/stars/veops/cmdb)
+- [10分钟定制一个「陈天奇GPT」，OpenAI新品大波实测来袭！Sam Altman降维打击，千家AI初创公司入土](https://mp.weixin.qq.com/s/5MKmjybE9-6bRNTr8lc5TA) - GPTX功能介绍
+- [cody](https://github.com/sourcegraph/cody) - SourceGraph 出品的基于当前代码库的AI问答机器人，有利于编程 ![img](https://img.shields.io/github/stars/sourcegraph/cody)
+
+## 20231108
+
+- [The nine best recommendations in the new React docs](https://blog.testdouble.com/posts/2023-10-16-react-docs-recommendations/) - React新版文档里总结的几个最佳实践，值得一看
+- [element-schema-form](https://github.com/vueblocks/element-schema-form) - 一个基于vue2和elementui的schema表单工具，感觉还不错，还有对应的表单cms，schema的格式值得借鉴下，就是star不多，30几 ![img](https://img.shields.io/github/stars/vueblocks/element-schema-form)
+- [element-form-generator](https://github.com/vueblocks/element-form-generator) - element-schema-form对应的表单生成器，可以用来设计表单，当做cms ![img](https://img.shields.io/github/stars/vueblocks/element-form-generator)
+- [vue-json-schema-form](https://github.com/lljj-x/vue-json-schema-form) - 一个可以同时兼容vue2、vue3、elementui、element-plus、antd等框架的动态组件，就是schema设计得更加复杂，然后自定义更加复杂点，1800星，比之前的可维护性高不少 ![img](https://img.shields.io/github/stars/lljj-x/vue-json-schema-form)
+- [variant-form](https://github.com/vform666/variant-form) - elementui官方推荐的表单低代码工具，jsonscheme比较复杂点，支持vue2、vue3、vant、h5 ![img](https://img.shields.io/github/stars/vform666/variant-form)
+- [form-create](https://github.com/xaboy/form-create) - 一款星最多，schema最简单的动态表单，支持vue2、vue3、element、elementplus等多个组件库，最后选定这一款 ![img](https://img.shields.io/github/stars/xaboy/form-create)
+
+## 20231103
+
+- [CLUE](https://github.com/CLUEbenchmark/CLUE) - 支持中文的大模型评测排行榜 ![img](https://img.shields.io/github/stars/CLUEbenchmark/CLUE)
+
+## 20231101
+
+- [it-tools](https://github.com/CorentinTh/it-tools) - 各种开发工具比如json格式化，加解密hash等 ![img](https://img.shields.io/github/stars/CorentinTh/it-tools)
+
+## 20231031
+
+- [westore](https://github.com/Tencent/westore) - 腾讯推出的小程序分层框架，适用于大中型小程序项目的可维护性提升 ![img](https://img.shields.io/github/stars/Tencent/westore)
+- [还不快看看？One API - ai开源项目分析与部署指南](https://mp.weixin.qq.com/s/4feArde-FixAw42iy1Os3g) - 通过标准的 OpenAI API 格式，提供对多种大型语言模型的访问，使其开箱即用，衔接openAI的生态
+- [【第3086期】微前端框架MicroApp 1.0正式发布](https://mp.weixin.qq.com/s/Q89Q-65FjiFalqnFHv-mKg) - 京东开源的微前端解决方案推文，介绍了其几个难点和历程。
+- [前端开发利器之Curl 深度应用与技巧](https://mp.weixin.qq.com/s/M5_7md8kqTSYXxYUgwWpGw) - 介绍了下curl的使用
+
+## 20231025
+
+- [【知识分享】|史上最全k8s基础知识整理，带你“零基础”入门！](https://mp.weixin.qq.com/s/PYj_ETEQ3HXk_ER31-jGiQ) - 一文了解k8s大概的组件和架构，适合入门级
+
+## 20231023
+
+- [玩转K8s网络：16张图带你从小白到专家](https://mp.weixin.qq.com/s/pIPfd3YdgdF07Sq3Uned8w) - 讲k8s网络的，看的云里雾里。
+- [基于大模型 + 知识库的 Code Review 实践](https://mp.weixin.qq.com/s/zUmt0W8nsu6_PHmLzSB2Og) - 基于大模型来做CodeReview，非常好，可以参考下
+
+## 20231020
+
+- [react-flow](https://github.com/wbkd/react-flow) - 可视化编排组件，非常灵活，react生态，很多大模型编排都是基于此 ![img](https://img.shields.io/github/stars/wbkd/react-flow)
+
+## 20231019
+
+- [system-design-101](https://github.com/ByteByteGoHq/system-design-101) - 系统设计的好文章，以面试题的角度出发理解系统设计的一些知识点 ![img](https://img.shields.io/github/stars/ByteByteGoHq/system-design-101)
+
+
+## 20231018
+
+- [FastGPT](https://github.com/labring/FastGPT) - 一个类似dify的工具 ![img](https://img.shields.io/github/stars/labring/FastGPT)
+- [rapidpages](https://github.com/rapidpages/rapidpages) - 一个类似v0.dev的工具，一句话生成react组件 ![img](https://img.shields.io/github/stars/rapidpages/rapidpages)
+
+## 20231016
+
+- [lax.js](https://github.com/alexfoxy/lax.js) - 页面滑动动画库，用于一些宣传页非常合适 ![img](https://img.shields.io/github/stars/alexfoxy/lax.js)
+
+## 20231012
+
+- [一行代码禁止用户调试前端代码！](https://mp.weixin.qq.com/s/6YD1j785OcemmKI8rju1dQ) - 介绍了disable-devtool这个库，解决开发者模式调试的问题
+- [disable-devtool](https://github.com/theajack/disable-devtool) - 禁用各种前端调试 ![img](https://img.shields.io/github/stars/theajack/disable-devtool)
+
+## 20231011
+
+- [三条命令助你完成ssh内网穿透-腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/article/1823215) - 内网A-公网B-内网C互通的解决方案
+
+
+## 20231008
+
+- [SafeLine](https://github.com/chaitin/SafeLine) - 一款开源的web应用防火墙 ![img](https://img.shields.io/github/stars/chaitin/SafeLine)
+- [vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - 一个基于chatgpt的vscode插件，功能非常全面，可以用来借鉴 ![img](https://img.shields.io/github/stars/gencay/vscode-chatgpt)
 
 ## 20231007
 
 - [learning-vue3](https://github.com/chengpeiquan/learning-vue3) - 一个讲vue3的好系列教程，非常给力，一本书完全开源 ![img](https://img.shields.io/github/stars/chengpeiquan/learning-vue3)
-
+- [前端流程图插件对比选型，这一篇就够了](https://mp.weixin.qq.com/s/Pt7PRKwlK5UosG4ktJvYZQ) - 前端流程编排一直是个话题，这里有些技术选型值得一看
+- [pnpm 是凭什么对 npm 和 yarn 降维打击的 - 掘金](https://juejin.cn/post/7127295203177676837) - 一个介绍pnpm的文章，非常好
 ## 20230927
 
 - [解决import导入顺序杂乱无章的问题](https://mp.weixin.qq.com/s/Enro1Aiac3wO_CjPBx4n6g) - 这个插件可以指定import时的顺序规则
@@ -65,7 +230,7 @@
 
 ## 20230913
 
-- [Bun 1.0 正式发布，快如闪电，遥遥领先！-前端里](http://www.yyyweb.com/5537.html) - Node运行时的替代品，现在Bun发布了1.0稳定可用版本。Bun的速度比Node快3倍左右，但是兼容性和社区生态不够好。根据网易程序员的实践，node项目可以替换，但是前端项目不要尝试。
+- [Bun 1.0 正式发布，快如闪电，遥遥领先！-前端里](http://www.yyyweb.com/5537.html) - Node运行时的替代品，现在Bun发布了1.0稳定可用版本。Bun的速度比Node快3倍左右，但是兼容性和社区生态不够好。根据某大厂程序员的实践，node项目可以替换，但是前端项目不要尝试。
 - [ES7、ES8、ES9、ES10、ES11、ES12都增加了哪些新特性？ - 掘金](https://juejin.cn/post/7243677232827891773) - 本文是对ES7至ES12常用到的特性的总结和归纳，有详细的定义语法和例子。
 
 
